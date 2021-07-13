@@ -1,6 +1,7 @@
 # [Secrets-signIn-authentication]
 
 ## Different levels of security for passwords on a website .
+(Level increases with every subsequent commit)
 
 ## LEVEL 1 : Saving Id and password to database
 
@@ -10,7 +11,7 @@
 ## LEVEL 3 : using md5 HASHING package to hash password and save onto database.
 
 ## LEVEL 4 : SALTING and HASHING then saving cookies & seesions onto browser
-             using packages - passport,passport,passport-local ,passport-local-mongoose ,express-session
+   #### using packages - passport,passport,passport-local ,passport-local-mongoose ,express-session
 
 
 (The Project is hosted on a local device with a local database so,
