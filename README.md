@@ -14,7 +14,7 @@
    #### using packages - passport,passport,passport-local ,passport-local-mongoose ,express-session
 
 ## LEVEL 5 : Adding google authentication
-   #### using packages - passport-google-oauth20 , passport,passport,passport-local ,passport-local-mongoose ,express-session
+   #### using packages - passport-google-oauth20 
 
 (The Project is hosted on a local device with a local database so,
 feel free to clone the rep. and run on your devie it via 'node app.js' 
